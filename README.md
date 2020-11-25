@@ -1,4 +1,4 @@
 # Transporter-sequence-analysis-scripts
 Transporter sequence analysis scripts
 
-These scripts are mostly unannotated at the time. Annotation will improve as I get closer to publication...
+These scripts are mostly unannotated at this time.
